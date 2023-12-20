@@ -9,4 +9,5 @@ It was a written alarm system ⬇
 <h3>project gif</h3>
 
 
-![ezgif com-video-to-gif-converted](https://github.com/nazanyilmaz/ToDo-List/assets/147782488/60fa032e-b1cc-424f-80ef-1534af2f6422)
+
+![ezgif com-optimize (41)](https://github.com/nazanyilmaz/ToDo-List/assets/147782488/c377b226-fb18-4977-bc09-7fd2e0bce60a)
